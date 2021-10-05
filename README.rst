@@ -1,4 +1,4 @@
-.. image:: ./logo.jpg?raw=true
+.. image:: https://github.com/noah-jones/cluedo/raw/master/logo.jpg?raw=true
    :alt: logo
 
 Cluedo Top Secret Passcodes
