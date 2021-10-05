@@ -103,7 +103,8 @@ def get_encrypyted_secret(secret,
 
     return dwg
 
-if __name__ == "__main__":
+def main():
+    """CLI."""
     parser = OptionParser()
     parser.add_option("-o", "--outputfile", dest="filename",
                       help="write SVG to FILE", metavar="FILE")
@@ -131,3 +132,6 @@ if __name__ == "__main__":
     else:
         dwg.save()
 
+
+if __name__=="__main__":
+    main()

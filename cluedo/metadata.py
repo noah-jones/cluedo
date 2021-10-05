@@ -5,7 +5,7 @@ Contains a bunch of information about this package.
 
 __version__ = "0.0.0"
 
-__author__ = "Jonas Braun"
+__author__ = "github.com/noah-jones"
 __copyright__ = "Copyright 2021-, " + __author__
 __credits__ = [__author__]
 __license__ = "MIT"

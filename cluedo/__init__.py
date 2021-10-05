@@ -13,3 +13,5 @@ from .metadata import (
         __email__,
         __status__,
     )
+
+from .encrypt import get_encrypyted_secret
